@@ -1,0 +1,9 @@
+pandas
+matplotlib
+streamlit
+opencv-python-headless
+ultralytics
+dill
+easyocr
+shapely
+numpy
